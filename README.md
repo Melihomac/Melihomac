@@ -1,6 +1,13 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Melihomac" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Melihomac" height="180" alt="languages graph"  />
-</div>
+<h1 align="center">Hi 👋 I'm Melih</h1>
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Melihomac&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Melihomac&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Melihomac&theme=dracula&row=1&column=6"/>
+</p>
