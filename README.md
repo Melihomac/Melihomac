@@ -5,7 +5,7 @@
 I build apps end to end — the idea, the design, the code, the backend and the App Store release.<br/>
 Based in İstanbul 🇹🇷
 
-<a href="https://apps.apple.com/app/id6811587180"><img src="https://img.shields.io/badge/MovieForUs-App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="MovieForUs on the App Store" /></a> <a href="https://melihomac.github.io/movieforus-site/en.html"><img src="https://img.shields.io/badge/Website-movieforus-FF375F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MovieForUs website" /></a> <img src="https://komarev.com/ghpvc/?username=Melihomac&style=for-the-badge&color=grey&label=Profile+views" alt="Profile views" />
+<a href="https://apps.apple.com/app/id6811587180"><img src="https://img.shields.io/badge/MovieForUs-App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="MovieForUs on the App Store" /></a> <a href="https://melihomac.github.io/movieforus-site/en.html"><img src="https://img.shields.io/badge/Website-movieforus-FF375F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MovieForUs website" /></a>
 
 </div>
 
