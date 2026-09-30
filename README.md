@@ -25,7 +25,6 @@ Based in İstanbul 🇹🇷
 - 🍿 Personal recommendations built from everything you like, rate and watch
 - ❤️ Matching on shared favourites and on the same calls in the swipe deck
 - 👥 Shared rooms for up to four people to pick tonight's film
-- 🛡️ Automatic photo checks, blocking and reporting, GDPR/KVKK-ready privacy
 
 `React Native` `Expo` `TypeScript` `Supabase` `PostgreSQL` `Edge Functions` `TMDB API`
 
@@ -58,12 +57,5 @@ Based in İstanbul 🇹🇷
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Melihomac&theme=dark&hide_border=true&background=0D1117&ring=FF375F&fire=FF375F&currStreakLabel=FF375F" />
     <img src="https://streak-stats.demolab.com?user=Melihomac&hide_border=true&ring=FF375F&fire=FF375F&currStreakLabel=FF375F" alt="GitHub streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Melihomac/Melihomac/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Melihomac/Melihomac/output/github-snake.svg" alt="Snake eating my contribution graph" />
   </picture>
 </p>
