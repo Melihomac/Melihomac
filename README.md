@@ -32,25 +32,6 @@ Based in İstanbul 🇹🇷
 </tr>
 </table>
 
-## 🛠️ Tech I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,supabase,postgres,swift,figma&perline=8" alt="React, TypeScript, JavaScript, Node.js, Supabase, PostgreSQL, Swift, Figma" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,python,django,git,github,vscode&perline=8" alt="Java, Kotlin, Spring, Python, Django, Git, GitHub, VS Code" />
-</p>
-
-## 📂 More projects
-
-| Project | Stack |
-| --- | --- |
-| [Movie.Rate](https://github.com/Melihomac/Movie.Rate) | TypeScript |
-| [Flight-Case](https://github.com/Melihomac/Flight-Case) | TypeScript |
-| [BookApp-Case](https://github.com/Melihomac/BookApp-Case) · [Backend](https://github.com/Melihomac/BookApp-Backend) | TypeScript · Node.js |
-| [Job_Application_ReactNative](https://github.com/Melihomac/Job_Application_ReactNative) | React Native |
-| [Apartment-Project-Django](https://github.com/Melihomac/Apartment-Project-Django) | Python · Django |
-| [MineSweeper](https://github.com/Melihomac/MineSweeper) | Java |
-| [KotlinCalculator](https://github.com/Melihomac/KotlinCalculator) | Kotlin |
-
 ## 📈 Activity
 
 <p align="center">
